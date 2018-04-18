@@ -8,9 +8,9 @@ No installation needed just open the .html files with your default browser
 ## Known Bugs
 No bugs
 ## Technologies Used
-Language used;
- 1.html
- 2.CSS Styling
+** Language used; **
+* html
+* CSS Styling
 ## Support and contact details
 Comment if any issues arise
 ### License
