@@ -8,7 +8,7 @@ No installation needed just open the .html files with your default browser
 ## Known Bugs
 No bugs
 ## Technologies Used
-** Language used; **
+**Language used;**
 * html
 * CSS Styling
 ## Support and contact details
