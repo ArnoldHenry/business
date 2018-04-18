@@ -2,7 +2,7 @@
 Simple webpage design, 18/4/2018
 #### By **Arnold Henry and Joshua Kimani**
 ## Description
-This is a CCTV advertising homepage
+This is a CCTV advertising website
 ## Setup/Installation Requirements
 No installation needed just open the .html files with your default browser
 ## Known Bugs
